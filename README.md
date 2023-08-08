@@ -1,4 +1,5 @@
 ### Howdy 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gremlinflat.gremlinflat)
 
 <!--
 Well, well, look who's here peeking at my coding sanctuary! Feel free to take a gander, but remember, stealing's just so unoriginal (but hey, if you've got that urge, who am I to stop you? 🥱)
@@ -59,7 +60,7 @@ int main() {
 ```
 
 ### 💀 Ping me a beacon!:
-📧 Email: fnovaldi@icloud.com
-📝 Medium: [medium.com/@gremlinflat](https://medium.com/@gremlinflat)
-❌ ~~ Twitter ~~: [@gremlinflat_](https://twitter.com/gremlinflat_)
+- 📧 Email: fnovaldi@icloud.com
+- 📝 Medium: [medium.com/@gremlinflat](https://medium.com/@gremlinflat)
+- ❌ ~~Twitter~~: [@gremlinflat_](https://twitter.com/gremlinflat_)
 
