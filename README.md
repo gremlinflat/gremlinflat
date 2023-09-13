@@ -50,8 +50,8 @@ int main() {
     literallyMe.addStack(Skill::TechStack::Dart(2));
 
     // Career
-    literallyMe.isOpenForOpportunity = false; //😎
-    literallyMe.workplace = nullptr;
+    literallyMe.isOpenForOpportunity = false; // 😎
+    literallyMe.workplace = nullptr; // to be announced after onboarding in near future
 
     literallyMe.flex();
 
