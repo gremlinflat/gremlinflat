@@ -42,7 +42,7 @@ int main() {
     Profile literallyMe("Fahri Novald", "gremlinflat", "I talk to machines");
 
     // Stacks and years of experience.
-    // Who needs frameworks? I code like a space cowboy, armed with a Vim and '90s Shinji's mixtape. No hug & kisses, just bug & fixes.
+    // Who needs frameworks?
     literallyMe.addStack(Skill::TechStack::CPP(5)); 
     literallyMe.addStack(Skill::TechStack::Python(10));
     literallyMe.addStack(Skill::TechStack::Javascript(3));
@@ -50,8 +50,8 @@ int main() {
     literallyMe.addStack(Skill::TechStack::Dart(2));
 
     // Career
-    literallyMe.isOpenForOpportunity = true; //🤧
-    literallyMe.workplace = nullptr; // Unchained and ready to seize the bounty of opportunities, one code at a time! 💰🌟
+    literallyMe.isOpenForOpportunity = false; //😎
+    literallyMe.workplace = nullptr;
 
     literallyMe.flex();
 
